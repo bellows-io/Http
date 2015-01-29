@@ -1,0 +1,8 @@
+{
+	"name"        : "bellows/http",
+	"description" : "basic HTTP methods n stuff",
+	"license"     : "MIT",
+	"autoload": {
+		"psr-4": {"Http\\":"src/"}
+	}
+}
